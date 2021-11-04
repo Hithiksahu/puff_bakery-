@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542711036187",
+    "project_id": "bbbake",
+    "storage_bucket": "bbbake.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542711036187:android:64d87c296402c95240fbbe",
+        "android_client_info": {
+          "package_name": "com.app.bbbake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542711036187-aheuru09nnlvj0vnmev8293kvmsjtpuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgiaEXqoIhI3wlJ0iLcvPYzZPzNHeqoEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542711036187-aheuru09nnlvj0vnmev8293kvmsjtpuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
